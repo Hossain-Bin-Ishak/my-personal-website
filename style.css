@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    margin: 0;
+    padding: 0;
+
+}
+
+h3{
+    color: #363958;;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+    font-size: 16px;
+}
+
+.header-menu-area{
+
+}
+
+.nav-bar-right{
+    float:right;
+}
+
+.nav-bar-right ul{
+
+}
+
+.nav-bar-right ul li{
+    display: inline;
+    padding: 10px 15px;
+}
+
+.nav-bar-right ul li a{
+   text-decoration: none;
+   font-family: 'Roboto', sans-serif;
+   font-size: 16px;
+   color: #3C3C3C;
+
+}
+
+.intro-area{
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.color-black{
+    letter-spacing: 3px;
+    color: #363958;
+    margin-top: 50px;
+}
+
+.color-orange{
+    color: #FF8367;
+    letter-spacing: 3px;
+}
+
+.custom-width{
+    width: 320px;
+    line-height: 25px;
+}
+
+.color-button{
+    text-decoration: none;
+    color:white;
+    display: inline-block;
+    padding: 15px 30px;
+    background-image: linear-gradient(180deg, salmon, tomato);
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.color-button:hover{
+    background-image: linear-gradient(80deg, #5D69E9, #00ffff);
+}
+
+.custom-width-1{
+    width:440px;
+    line-height: 25px;
+}
+
+.about-area{
+    display: inline-block;
+}
+
+#custon-style{
+    margin-top: 80px;
+}
+
+.project-area{
+    display: inline-block;
+    height: 800px;;
+    background-color: #e0f5f7;
+   
+}
+
+.single-project{
+    
+    width: 27%;
+    float: left;
+    padding: 25px 25px;
+    background-color: white;
+    height: 300px;
+    margin-left: 26px;
+    border-radius: 10px;
+}
+
+.single-project img{
+    width: 100%;
+}
+
+.project-heading{
+    font-size: 48px;
+    text-align: center;
+    margin: 80px 0px;
+}
+
+.all-projects{
+    margin-left: 5%;
+    margin-right: 5%;
+}
