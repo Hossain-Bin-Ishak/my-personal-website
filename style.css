@@ -217,7 +217,7 @@ p{
 
 .work-inquiry-area{
     height: 300px;
-    margin-left: 20%;
+    margin-left: 18%;
     margin-top: 80px;
     clear: both;
 }
@@ -251,7 +251,7 @@ p{
     height: 220px;
     text-align: center;
     width: 350px;
-    margin-left: 40%;
+    margin-left: 37%;
 }
 
 .footer-area p{
@@ -278,6 +278,6 @@ p{
     font-size: 14px;
     text-align: center;
     margin-top: 0;
-    padding-left: 85px;
+    padding-left: 0px;
     color: #3E3E3E;
 }
