@@ -135,7 +135,6 @@ p{
 }
 
 .single-project{
-    
     width: 27%;
     float: left;
     padding: 25px 25px;
@@ -166,7 +165,6 @@ p{
 }
 
 .client-area h2{
-
     text-align: center;
     margin-top: 50px;
     margin-bottom: 30px;
@@ -242,7 +240,7 @@ p{
 }
 
 .chat-botton{
-    width: 165px;
+    width: 170px;
     padding: 65px 0px;
     float: right;
 }
